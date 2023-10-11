@@ -10,7 +10,7 @@ The Android Dictionary App is a versatile and user-friendly mobile application t
 
 ## Screenshots
 
-<img width="295" alt="image" src="https://github.com/viet-ho/Android-Dictionary-App/assets/103388731/66716885-cf49-4c14-9c34-a996f9d54740">
+<img width="295" alt="image" src="https://github.com/viet-ho/Android-Dictionary-App/assets/103388731/e7f4ced1-281e-45f0-8653-0a1d2d398094">
 
 ## Installation
 
